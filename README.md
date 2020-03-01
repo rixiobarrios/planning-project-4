@@ -16,25 +16,29 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 ### Who will use it?
 
-- Proactive millenials conscious about environment etc.
+- Proactive people whoa are conscious about then environment and aware of food waste.
+- Anybody who eats and is looking for a good deal.
 
-#### Seller:
+#### Vendors/backend:
 
-- Farms/market/restaurant with food waste
-
-##### Reasons to use:
-
-- Extra cash
-- Environment
-
-#### Buyer:
-
-- Proactive millenials conscious about environment etc who isn't afraid of getting food second-hand.
+- Farms/markets/Groceries stores/Convenient stores/restaurants
 
 ##### Reasons to use:
 
-- Cheap food
-- Environment
+- Movey Saver
+- Waste reducer
+- Sustainability
+- Ethical use of food waste
+
+#### Consumer:
+
+- Proactive people conscious about environment who want a chance to help reduce food waste.
+
+##### Reasons to use:
+
+- Good deals on great food
+- Food waste reduction
+- The Environment
 
 ## MVP
 
