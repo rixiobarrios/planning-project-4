@@ -92,12 +92,18 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 - React
   - React Router
+  - React Hooks
 - Material-UI (maybe)
+- Amazon Web Services(AWS)
+- Javascript
+- Cascading Style Sheets(CSS)
 
 **Back-end**
 
 - Python
 - Django
+  - Django REST Framework
+- JSON Web Tokens (JWT)  
 - PostgresSQL
 - Google Maps API
 
