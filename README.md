@@ -1,44 +1,15 @@
 # Project 4 Planning
 
-##Overview
+## Overview
 
 The idea for the project came about through a mixture of activism and sustainability.
 Our main focus was to create a project to promote waste reduction and food management.
 We consider this is our contribution to moving ideas with forward thinking and in balance with nature.
 
-## Team
-
-- Mindy Marmol
-- Rixio Barrios
-- Qusai Fares
-- Sage Kearney
-
 ## About
 
 Food waste is a real problem in our society. In the United States, 40% of all food gets wasted.
 For Food's Sake is an app made to alleviate some of that waste from those farms, markets, restaurants and homes.
-
-## Planning
-
-## Wireframes
-
-![Wireframes](picture here)
-
-## User Flow Data
-
-![User Flow Data](picture here)
-
-## Request Response Cycle
-
-![Resquest Response Cycle](picture here)
-
-## Component Hiearchy Diagram
-
-![Hierchy Diagram](picture here)
-
-## Database Diagram
-
-![Relationship Diagram](relationship-diagram.png)
 
 ### Who will use it?
 
@@ -61,17 +32,14 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 - Proactive people conscious about environment who want a chance to help reduce food waste.
 
-## Minimum Viable Product
+## Wireframes
 
-**Bronze version**
+![Wireframes](picture here)
 
-- [ ]
+## User Story
 
-**Silver version**
+## Goal
 
-**Gold version**
-
-**Platinum version**
 
 ### Functionality
 
@@ -89,10 +57,51 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 - Fields: Name, organization name, email address, phone number, address, past transactions (Gold).
 
+## User Flow Data
+
+![User Flow Data](picture here)
+
+## Workflow and Responsabilities
+
+## Request Response Cycle
+
+![Resquest Response Cycle](picture here)
+
+## Component Hiearchy Diagram
+
+![Hierchy Diagram](picture here)
+
+## Database Diagram
+
+![Relationship Diagram](relationship-diagram.png)
+
+
+## Minimum Viable Product
+
+**Bronze version**
+
+- [ ]
+
+**Silver version**
+
+**Gold version**
+
+**Platinum version**
+
 ### Technologies used
 
-- React
+**Front-end**
+
+- React, React Router
+- Material-UI (maybe)
 - 
+
+**Back-end**
+
+- Python
+- Django
+- PostgresSQL
+- Google Maps API
 
 ### Why we chose this app???
 
