@@ -34,12 +34,11 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 ## Wireframes
 
-![Wireframes](picture here)
+![Wireframes](wireframe.png)
 
 ## User Story
 
 ## Goal
-
 
 ### Functionality
 
@@ -65,7 +64,7 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 ## Request Response Cycle
 
-![Resquest Response Cycle](picture here)
+![Request Response Cycle](picture here)
 
 ## Component Hiearchy Diagram
 
@@ -74,7 +73,6 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 ## Database Diagram
 
 ![Relationship Diagram](relationship-diagram.png)
-
 
 ## Minimum Viable Product
 
@@ -92,9 +90,9 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 **Front-end**
 
-- React, React Router
+- React
+  - React Router
 - Material-UI (maybe)
-- 
 
 **Back-end**
 
@@ -106,16 +104,16 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 ### Why we chose this app???
 
 `I feel the app is a call to action`
--Rixio Barrios
+\- Rixio Barrios
 
 `I'm hoping one day I can make a shit ton of money off this`
--Qusai Fares
+\- Qusai Fares
 
 `The more resources people have to make a difference, the easier it is to make a difference. DIFFERENCE`
--Sage Kearney
+\- Sage Kearney
 
 `To create an app that is a driving force for change, where people who are conscious about their impact can come together.`
--Mindy Marmol
+\- Mindy Marmol
 
 ```PY
 def food_listing(request):
