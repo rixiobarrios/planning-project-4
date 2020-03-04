@@ -8,29 +8,26 @@ If a contributor wants to download the repo and install it in their machine(code
 
 The idea for the project came about through a mixture of activism and sustainability.
 Our main focus was to create a project to promote waste reduction and food management.
-We consider this is our contribution to moving ideas with forward thinking and in balance with nature.
+We consider this is project our contribution to creating a more sustainable future for all.
 
 ## About
 
-Food waste is a real problem in our society. In the United States, 40% of all food gets wasted.
+Food waste is a real problem among the western nations. In the United States, 40% of all food gets wasted.
 For Food's Sake is an app made to alleviate some of that waste from those farms, markets, restaurants and homes.
 
 ### Who will use it?
 
-- Proactive people whoa are conscious about the impact the human footprint has on the environment.
-- Anybone who eats and is looking for a good deal.
-
-#### Vendors/backend:
-
-- Farms/markets/Groceries stores/Convenient stores/restaurants
+- Proactive people who are conscious about the impact the human footprint has on the environment.
+- Vendors who want to reduce food waste and dedicate a portion of their business to sustainability.
+- Anybone who eats and is looking for a good deal on delicious food.
 
 ##### Reasons to use:
 
 - Saves Money
-- Reduce waste
-- Its sustainable
-- Its Ethical
-- Provides food at a reasonable price
+- Reduces food waste
+- Promotes community sutainability
+- Handles food waste in an ethical manner
+- Provides quality foods for low income families
 
 #### Consumer:
 
@@ -38,27 +35,20 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 ## Wireframes
 
-![Wireframes](wireframe.png)
+![Wireframes](picture here)
+
 
 ## User Story
 
-## Goal
+**Vendor**
 
-### Functionality
+The farm, grocery store or restaurant would signup, enter their information, post their menu or dish with portions size, price per item and units available including pickup by time.
 
-#### Buyer
+**Customer**
 
-- Login
-- Search by type of food, type of vendor, location near you, vendor name.
-- Select listing and process transaction
-- Recieve confirmation with scheduled time and place
+The customer would see vendors near by, pick an item, make a payment and then proceed to pickup time and contact information for vendor.
 
-* Fields: Name, email address, phone number, address, past transactions (Gold).
-* Home page contains postings made around your location
 
-#### Seller
-
-- Fields: Name, organization name, email address, phone number, address, past transactions (Gold).
 
 ## User Flow Data
 
@@ -76,19 +66,28 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 ## Database Diagram
 
-![Relationship Diagram](relationship-diagram.png)
+![Relationship Diagram](picture here)
 
-## Minimum Viable Product
+### Functionality
+
+**Minimum Viable Product**
 
 **Bronze version**
 
 - [ ]
+- [x]
 
 **Silver version**
 
+- [ ]
+
 **Gold version**
 
+- [ ]
+
 **Platinum version**
+
+- [ ]
 
 ### Technologies used
 
@@ -118,7 +117,7 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 `I feel the app is a call to action`
 \- Rixio Barrios
 
-`I'm hoping one day I can make a shit ton of money off this`
+`I'm hoping one day I can make a shit ton of money off this since I am a greedy basterd`
 \- Qusai Fares
 
 `The more resources people have to make a difference, the easier it is to make a difference. DIFFERENCE`
@@ -132,10 +131,15 @@ def food_listing(request):
     listings = Listing.objects.all()
     return # Response generate by our API
 ```
-** This code helps us do.....**
+** This code helps us do (reasons here)**
 
 ## How to Contribute ##
 
+Please submit your contribution to this repository:
+![ForFoodSake Repository](picture here)
+
 
 ## Credits ##
+
+
 
