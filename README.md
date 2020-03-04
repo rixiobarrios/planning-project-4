@@ -1,5 +1,11 @@
 # Project 4 Planning
 
+##Overview
+
+The idea for the project came about through a mixture of activism and sustainability.
+Our main focus was to create a project to promote waste reduction and food management.
+We consider this is our contribution to moving ideas with forward thinking and in balance with nature.
+
 ## Team
 
 - Mindy Marmol
@@ -12,20 +18,32 @@
 Food waste is a real problem in our society. In the United States, 40% of all food gets wasted.
 For Food's Sake is an app made to alleviate some of that waste from those farms, markets, restaurants and homes.
 
-## User Stories
-
 ## Planning
 
-### Back End
+## Wireframes
 
-Below is a diagram for our database created on dbdiagram.io
+![Wireframes](picture here)
+
+## User Flow Data
+
+![User Flow Data](picture here)
+
+## Request Response Cycle
+
+![Resquest Response Cycle](picture here)
+
+## Component Hiearchy Diagram
+
+![Hierchy Diagram](picture here)
+
+## Database Diagram
 
 ![Relationship Diagram](relationship-diagram.png)
 
 ### Who will use it?
 
-- Proactive people whoa are conscious about then environment and aware of food waste.
-- Anybody who eats and is looking for a good deal.
+- Proactive people whoa are conscious about the impact the human footprint has on the environment.
+- Anybone who eats and is looking for a good deal.
 
 #### Vendors/backend:
 
@@ -33,26 +51,27 @@ Below is a diagram for our database created on dbdiagram.io
 
 ##### Reasons to use:
 
-- Movey Saver
-- Waste reducer
-- Sustainability
-- Ethical use of food waste
+- Saves Money
+- Reduce waste
+- Its sustainable
+- Its Ethical
+- Provides food at a reasonable price
 
 #### Consumer:
 
 - Proactive people conscious about environment who want a chance to help reduce food waste.
 
-##### Reasons to use:
-
-- Good deals on great food
-- Food waste reduction
-- The Environment
-
-## MVP
+## Minimum Viable Product
 
 **Bronze version**
 
 - [ ]
+
+**Silver version**
+
+**Gold version**
+
+**Platinum version**
 
 ### Functionality
 
@@ -70,27 +89,24 @@ Below is a diagram for our database created on dbdiagram.io
 
 - Fields: Name, organization name, email address, phone number, address, past transactions (Gold).
 
-### Tech
+### Technologies used
 
-- PayPal
-- Google Maps
+- React
+- 
 
 ### Why we chose this app???
 
-`To make it easy for lazy ass people to participate in protecting the environment`
--Mindy Marmol 2020
-
 `I feel the app is a call to action`
--Rixio Barrios 2020
+-Rixio Barrios
 
 `I'm hoping one day I can make a shit ton of money off this`
--Qusai Fares 2020
+-Qusai Fares
 
 `The more resources people have to make a difference, the easier it is to make a difference. DIFFERENCE`
--Sage Kearney 2020
+-Sage Kearney
 
 `To create an app that is a driving force for change, where people who are conscious about their impact can come together.`
--Mindy Marmol 2020
+-Mindy Marmol
 
 ```PY
 def food_listing(request):
