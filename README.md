@@ -14,6 +14,14 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 ## User Stories
 
+## Planning
+
+### Back End
+
+Below is a diagram for our database created on dbdiagram.io
+
+![Relationship Diagram](relationship-diagram.png)
+
 ### Who will use it?
 
 - Proactive people whoa are conscious about then environment and aware of food waste.
@@ -45,7 +53,6 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 **Bronze version**
 
 - [ ]
-
 
 ### Functionality
 
@@ -84,7 +91,6 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 `To create an app that is a driving force for change, where people who are conscious about their impact can come together.`
 -Mindy Marmol 2020
-
 
 ```PY
 def food_listing(request):
