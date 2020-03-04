@@ -1,5 +1,9 @@
 # Project 4 Planning
 
+## Install
+
+If a contributor wants to download the repo and install it in their machine(code here)(e.g nmp install)
+
 ## Overview
 
 The idea for the project came about through a mixture of activism and sustainability.
@@ -107,6 +111,8 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 - PostgresSQL
 - Google Maps API
 
+**Testing**
+
 ### Why we chose this app???
 
 `I feel the app is a call to action`
@@ -126,3 +132,10 @@ def food_listing(request):
     listings = Listing.objects.all()
     return # Response generate by our API
 ```
+** This code helps us do.....**
+
+## How to Contribute ##
+
+
+## Credits ##
+
