@@ -137,8 +137,6 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 - Testing
   - Unit Test
 
-**Testing**
-
 ### Why we chose this app???
 
 `I feel the app is a call to action.`
