@@ -63,7 +63,7 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 
 ## Request Response Cycle
 
-![Request Response Cycle](picture here)
+![Request Response Cycle](mvc.jpg)
 
 ## Component Hiearchy Diagram
 
