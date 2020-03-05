@@ -2,36 +2,32 @@
 
 ## Install
 
-If a contributor wants to download the repo and install it in their machine(code here)(e.g nmp install)
+If you would like to contribute to this project feel free to create an issue on this repository. You can also download this repo, install it on your machine and install dependencies(code here)(e.g nmp install).
 
 ## Overview
 
 The idea for the project came about through a mixture of activism and sustainability.
-Our main focus was to create a project to promote waste reduction and food management.
-We consider this is project our contribution to creating a more sustainable future for all.
+Our main focus was to create a project that promotes waste reduction through food management.
+We consider this project our contribution to creating a more sustainable future for all.
 
 ## About
 
-Food waste is a real problem among the western nations. In the United States, 40% of all food gets wasted.
-For Food's Sake is an app made to alleviate some of that waste from those farms, markets, restaurants and homes.
+Food waste is a major problem among developed nations. In the United States, 40% of all food goes to waste.
+For Food's Sake is an app that would help alleviate some of that waste from farms, markets, restaurants and homes.
 
 ### Who will use it?
 
-- Proactive people who are conscious about the impact the human footprint has on the environment.
+- Proactive people who are conscious about the impact that human footprint has on the environment.
 - Vendors who want to reduce food waste and dedicate a portion of their business to sustainability.
-- Anybone who eats and is looking for a good deal on delicious food.
+- Anybone who enjoys eating and is looking for a good deal on delicious food.
 
 ##### Reasons to use:
 
 - Saves Money
 - Reduces food waste
-- Promotes community sutainability
+- Promotes community activism and sustainability
 - Handles food waste in an ethical manner
 - Provides quality foods for low income families
-
-#### Consumer:
-
-- Proactive people conscious about environment who want a chance to help reduce food waste.
 
 ## Wireframes
 
@@ -42,11 +38,13 @@ For Food's Sake is an app made to alleviate some of that waste from those farms,
 
 **Vendor**
 
-The farm, grocery store or restaurant would signup, enter their information, post their menu or dish with portions size, price per item and units available including pickup by time.
+The vendor (farm, grocery store or restaurant) will signup; enter their information, and post information about the items they have available (price and units available).
 
 **Customer**
 
-The customer would see vendors near by, pick an item, make a payment and then proceed to pickup time and contact information for vendor.
+MVP- The customer would be able to see listings from vendors nearby and be able to get in touch with the vendor to arrange order and pickup.
+
+SILVER- The customer would be able to see listings from vendors nearby. Choose the items they would like to purchase. Make a payment and then proceed to pickup time and contact information for vendor.
 
 
 
@@ -75,7 +73,7 @@ The customer would see vendors near by, pick an item, make a payment and then pr
 **Bronze version**
 
 - [ ]
-- [x]
+- [ ]
 
 **Silver version**
 
