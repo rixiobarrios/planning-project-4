@@ -86,30 +86,30 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 
 **Bronze version**
 
-- [ ]Vendor authentication
-- [ ]Users can search for vendors located in Nashville, Denver, or New York
-- [ ]Incorporate material.ui for styling
+- [ ] Vendor authentication
+- [ ] Users can search for vendors located in Nashville, Denver, or New York
+- [ ] Incorporate material.ui for styling
 
 **Silver version**
 
-- [ ]Transition from React to React Native framework
-- [ ]Add component for educational resources about waste free lifestyle
-- [ ]Continue to elevate styling through branding(colors, fonts, icons, graphic elements)
-- [ ]Image upload for vendors
+- [ ] Transition from React to React Native framework
+- [ ] Add component for educational resources about waste free lifestyle
+- [ ] Continue to elevate styling through branding(colors, fonts, icons, graphic elements)
+- [ ] Image upload for vendors
 
 **Gold version**
 
-- [ ]CRUD functionality for Users
-- [ ]Use Google geolocation for 'view vendors by location' style search functionality
-- [ ]Add Twitter thread linking to releated hashtags.
-- [ ]Add animation & interactive design through transitions
-- [ ]Carousel/Slideshow of available listings on home page
+- [ ] CRUD functionality for Users
+- [ ] Use Google geolocation for 'view vendors by location' style search functionality
+- [ ] Add Twitter thread linking to releated hashtags.
+- [ ] Add animation & interactive design through transitions
+- [ ] Carousel/Slideshow of available listings on home page
 
 **Platinum version**
 
-- [ ]Add ability for user to write a review for vendor
-- [ ]Incorporate social sharing abilities.
-- [ ]Use Nodemailer or other technology to send order receipts to user
+- [ ] Add ability for user to write a review for vendor
+- [ ] Incorporate social sharing abilities.
+- [ ] Use Nodemailer or other technology to send order receipts to user
 
 ### Technologies used
 
