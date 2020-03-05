@@ -13,7 +13,7 @@ We consider this project our contribution to creating a more sustainable future 
 ## About
 
 Food waste is a major problem among developed nations. In the United States, 40% of all food goes to waste.
-For Food's Sake is an app that would help alleviate some of that waste from farms, markets, restaurants and homes.
+ForFoodSake is an app that would help alleviate some of that waste from farms, markets, restaurants and homes.
 
 ### Who will use it?
 
@@ -71,7 +71,7 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 
 ## Database Diagram
 
-![Relationship Diagram](relationship-mvp.png)
+![Relationship Diagram](relationship-diagram-mvp.png)
 
 ### Functionality
 
@@ -88,7 +88,7 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 
 - [ ] Vendor authentication
 - [ ] Users can search for vendors located in Nashville, Denver, or New York
-- [ ] Incorporate material.ui for styling
+- [ ] Incorporate Material.UI for styling
 
 **Silver version**
 
@@ -120,7 +120,7 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
   - React Hooks
 - Material-UI (maybe)
 - Amazon Web Services(AWS)
-- Javascript
+- JavaScript
 - Cascading Style Sheets(CSS)
 
 **Back-end**
@@ -129,7 +129,7 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 - Django
   - Django REST Framework
 - JSON Web Tokens (JWT)
-- PostgresSQL
+- PostgreSQL
 - Google Maps API
 
 **Testing**
