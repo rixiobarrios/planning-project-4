@@ -118,19 +118,24 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 - React
   - React Router
   - React Hooks
-- Material-UI (maybe)
-- Amazon Web Services(AWS)
 - JavaScript
 - Cascading Style Sheets(CSS)
+- Material-UI (maybe)
+- Testing
+  - Jest
+  - Enzyme
 
 **Back-end**
 
 - Python
-- Django
-  - Django REST Framework
-- JSON Web Tokens (JWT)
+  - Django
+    - Django REST Framework
 - PostgreSQL
+- JSON Web Tokens (JWT)
 - Google Maps API
+- Amazon Web Services (AWS)
+- Testing
+  - Unit Test
 
 **Testing**
 
