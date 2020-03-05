@@ -47,7 +47,7 @@ SILVER- The customer would be able to see listings from vendors nearby. Choose t
 
 ## User Flow Data
 
-![User Flow Data](picture here)
+![User Flow Data](userdataflow.png)
 
 ## Workflow and Responsabilities
 
@@ -67,15 +67,16 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 
 ## Component Hiearchy Diagram
 
-![Hierchy Diagram](picture here)
+![Hierarchy Diagram](component-hierarchy-mvp.jpg)
 
 ## Database Diagram
 
-![Relationship Diagram](picture here)
+![Relationship Diagram](relationship-mvp.png)
 
 ### Functionality
 
 **Minimum Viable Product**
+
 - [ ]CRUD functionality for Vendors
 - [ ]User can view vendors located in New York
 - [ ]User can view all listings displayed on Vendor page
@@ -84,24 +85,28 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 - [ ]Mobile responsive
 
 **Bronze version**
+
 - [ ]Vendor authentication
 - [ ]Users can search for vendors located in Nashville, Denver, or New York
 - [ ]Incorporate material.ui for styling
 
 **Silver version**
+
 - [ ]Transition from React to React Native framework
 - [ ]Add component for educational resources about waste free lifestyle
 - [ ]Continue to elevate styling through branding(colors, fonts, icons, graphic elements)
 - [ ]Image upload for vendors
 
 **Gold version**
+
 - [ ]CRUD functionality for Users
 - [ ]Use Google geolocation for 'view vendors by location' style search functionality
-- [ ]Add Twitter thread linking to releated hashtags. 
+- [ ]Add Twitter thread linking to releated hashtags.
 - [ ]Add animation & interactive design through transitions
 - [ ]Carousel/Slideshow of available listings on home page
 
 **Platinum version**
+
 - [ ]Add ability for user to write a review for vendor
 - [ ]Incorporate social sharing abilities.
 - [ ]Use Nodemailer or other technology to send order receipts to user
@@ -131,13 +136,13 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 
 ### Why we chose this app???
 
-`I feel the app is a call to action`
+`I feel the app is a call to action.`
 \- Rixio Barrios
 
-`I'm hoping one day I can make a shit ton of money off this since I am a greedy basterd`
+`Creating a tool for everyone to benefit.`
 \- Qusai Fares
 
-`The more resources people have to make a difference, the easier it is to make a difference. DIFFERENCE`
+`The more resources people have to make a difference, the easier it is to make a difference. DIFFERENCE.`
 \- Sage Kearney
 
 `To create an app that is a driving force for change, where people who are conscious about their impact can come together.`
@@ -149,7 +154,7 @@ def food_listing(request):
     return # Response generate by our API
 ```
 
-** This code helps us do (reasons here)**
+**This code helps us do (reasons here)**
 
 ## How to Contribute
 
