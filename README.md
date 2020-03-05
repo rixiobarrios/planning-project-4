@@ -66,23 +66,35 @@ SILVER- The customer would be able to see listings from vendors nearby. Choose t
 ### Functionality
 
 **Minimum Viable Product**
+- [ ]CRUD functionality for Vendors
+- [ ]User can view vendors located in New York
+- [ ]User can view all listings displayed on Vendor page
+- [ ]Vendor can create, update, & delete listing
+- [ ]Basic styling using flexbox/grid
+- [ ]Mobile responsive
 
 **Bronze version**
-
-- [ ]
-- [ ]
+- [ ]Vendor authentication
+- [ ]Users can search for vendors located in Nashville, Denver, or New York
+- [ ]Incorporate material.ui for styling
 
 **Silver version**
-
-- [ ]
+- [ ]Transition from React to React Native framework
+- [ ]Add component for educational resources about waste free lifestyle
+- [ ]Continue to elevate styling through branding(colors, fonts, icons, graphic elements)
+- [ ]Image upload for vendors
 
 **Gold version**
-
-- [ ]
+- [ ]CRUD functionality for Users
+- [ ]Use Google geolocation for 'view vendors by location' style search functionality
+- [ ]Add Twitter thread linking to releated hashtags. 
+- [ ]Add animation & interactive design through transitions
+- [ ]Carousel/Slideshow of available listings on home page
 
 **Platinum version**
-
-- [ ]
+- [ ]Add ability for user to write a review for vendor
+- [ ]Incorporate social sharing abilities.
+- [ ]Use Nodemailer or other technology to send order receipts to user
 
 ### Technologies used
 
