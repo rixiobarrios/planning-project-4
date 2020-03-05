@@ -77,12 +77,12 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 
 **Minimum Viable Product**
 
-- [ ]CRUD functionality for Vendors
-- [ ]User can view vendors located in New York
-- [ ]User can view all listings displayed on Vendor page
-- [ ]Vendor can create, update, & delete listing
-- [ ]Basic styling using flexbox/grid
-- [ ]Mobile responsive
+- [ ] CRUD functionality for Vendors
+- [ ] User can view vendors located in New York
+- [ ] User can view all listings displayed on Vendor page
+- [ ] Vendor can create, update, & delete listing
+- [ ] Basic styling using flexbox/grid
+- [ ] Mobile responsive
 
 **Bronze version**
 
