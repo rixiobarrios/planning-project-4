@@ -31,7 +31,7 @@ For Food's Sake is an app that would help alleviate some of that waste from farm
 
 ## Wireframes
 
-![Wireframes](mvp-wireframe.png)
+![Wireframes](wireframe-mvp.png)
 
 ## User Story
 
