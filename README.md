@@ -2,7 +2,7 @@
 
 ## Install
 
-You can also download this repo, install it on your machine and install dependencies(code here)(e.g nmp install).
+To install you can download this repo, install it on your machine and install dependencies(code here)(e.g nmp install).
 
 ## Overview
 
@@ -131,7 +131,7 @@ def food_listing(request):
 
 ## How to Contribute
 
-If you would like to contribute to this project feel free to create an issue on this repository:
+To contribute to this project submit an issue for review on this repository:
 ![ForFoodSake Repository](picture here)
 
 ## Credits
