@@ -51,6 +51,16 @@ SILVER- The customer would be able to see listings from vendors nearby. Choose t
 
 ## Workflow and Responsabilities
 
+The ForFoodSake team will use this workflows(workflow here)
+The responsabilities will be divided in the following ways;
+
+Sage Kerney: SCRUM Mistress?
+Mindy Marmol: SCRUM Mistress?
+Qusai Fares: ???
+Rixio Barrios: GIT Master?
+
+What are this responsabilities based on? How did we arrive at this decisions? who decided what?
+
 ## Request Response Cycle
 
 ![Request Response Cycle](picture here)
@@ -69,7 +79,7 @@ SILVER- The customer would be able to see listings from vendors nearby. Choose t
 
 **Bronze version**
 
-- [ ]
+- [x]
 - [ ]
 
 **Silver version**
