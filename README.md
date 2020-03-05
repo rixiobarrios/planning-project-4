@@ -31,8 +31,7 @@ For Food's Sake is an app that would help alleviate some of that waste from farm
 
 ## Wireframes
 
-![Wireframes](picture here)
-
+![Wireframes](mvp-wireframe.png)
 
 ## User Story
 
@@ -45,8 +44,6 @@ The vendor (farm, grocery store or restaurant) will signup; enter their informat
 MVP- The customer would be able to see listings from vendors nearby and be able to get in touch with the vendor to arrange order and pickup.
 
 SILVER- The customer would be able to see listings from vendors nearby. Choose the items they would like to purchase. Make a payment and then proceed to pickup time and contact information for vendor.
-
-
 
 ## User Flow Data
 
@@ -104,7 +101,7 @@ SILVER- The customer would be able to see listings from vendors nearby. Choose t
 - Python
 - Django
   - Django REST Framework
-- JSON Web Tokens (JWT)  
+- JSON Web Tokens (JWT)
 - PostgresSQL
 - Google Maps API
 
@@ -129,15 +126,12 @@ def food_listing(request):
     listings = Listing.objects.all()
     return # Response generate by our API
 ```
+
 ** This code helps us do (reasons here)**
 
-## How to Contribute ##
+## How to Contribute
 
 Please submit your contribution to this repository:
 ![ForFoodSake Repository](picture here)
 
-
-## Credits ##
-
-
-
+## Credits
