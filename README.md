@@ -67,7 +67,7 @@ What are this responsabilities based on? How did we arrive at this decisions? wh
 
 ## Component Hiearchy Diagram
 
-![Hierarchy Diagram](component-hierarchy-mvp.jpg)
+![Hierarchy Diagram](component-hierarchy.jpg)
 
 ## Database Diagram
 
